@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name=".lift">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Computer Science Programming with a Purpose Coursera/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Computer Science Programming with a Purpose Coursera/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Computer Science Programming with a Purpose Coursera/.lift/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
